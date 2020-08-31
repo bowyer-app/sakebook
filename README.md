@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm a sakebook. I'm a mobile application developer.
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=sakebook&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sakebook)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **sakebook/sakebook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
